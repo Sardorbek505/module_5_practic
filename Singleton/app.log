@@ -1,0 +1,16 @@
+[2026-02-22 19:25:39] [INFO] [Thread-8] Поток 4: INFO
+[2026-02-22 19:25:39] [WARNING] [Thread-8] Поток 4: WARNING
+[2026-02-22 19:25:39] [ERROR] [Thread-8] Поток 4: ERROR
+[2026-02-22 19:25:39] [INFO] [Thread-6] Поток 2: INFO
+[2026-02-22 19:25:39] [WARNING] [Thread-6] Поток 2: WARNING
+[2026-02-22 19:25:39] [ERROR] [Thread-6] Поток 2: ERROR
+[2026-02-22 19:25:39] [INFO] [Thread-4] Поток 0: INFO
+[2026-02-22 19:25:39] [WARNING] [Thread-4] Поток 0: WARNING
+[2026-02-22 19:25:39] [ERROR] [Thread-4] Поток 0: ERROR
+[2026-02-22 19:25:39] [INFO] [Thread-5] Поток 1: INFO
+[2026-02-22 19:25:39] [WARNING] [Thread-5] Поток 1: WARNING
+[2026-02-22 19:25:39] [ERROR] [Thread-5] Поток 1: ERROR
+[2026-02-22 19:25:39] [INFO] [Thread-7] Поток 3: INFO
+[2026-02-22 19:25:39] [WARNING] [Thread-7] Поток 3: WARNING
+[2026-02-22 19:25:39] [ERROR] [Thread-7] Поток 3: ERROR
+[2026-02-22 19:25:39] [ERROR] [Thread-2] Это ERROR — запишется
